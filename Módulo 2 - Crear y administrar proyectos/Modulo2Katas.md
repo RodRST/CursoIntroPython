@@ -3,6 +3,8 @@
 En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para no afectar a los paquetes instalados globalmente u otros programas que se ejecutan en tu máquina.
 
 *Para este ejercicio es necesario que lo ejecutes desde la terminal, línea de comandos, cmd, consola, cli, etc. de tu computadora, sé que es desafíante, pero no te preocupes ¡¡Sé que puedes lograrlo!!*
+## Primero verifica que tienes instalado virtualenv 
+* Ejecuta en la terminal:``venv``  si sale un error de que no se reconoce como un comando interno o instalado lo instalamos ejecutando desde la consola de powershell: ``pip install virtualenv``
 
 ## Crear un entorno virtual
 
