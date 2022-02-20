@@ -38,7 +38,7 @@ Crea un entorno virtual mediante ``venv``
     ``
     Ahora tienes un directorio (folder) ``env`` creado en tu terminal.
 
-* Ejecuta el comando para activar el entorno virtual: ``source env/bin/activate``
+* Ejecuta el comando para activar el entorno virtual: ``source env/bin/activate`` ó venv\Scripts\activate
 
     ```
     source env/bin/activate
