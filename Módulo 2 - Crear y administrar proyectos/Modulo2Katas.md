@@ -18,8 +18,9 @@ Seleccionas abrir ubicación de archivo y te llevará a una carpeta donde se enc
 
 para saber la ubicación actual del archivo, da click en esta barra, ahora selecciona todo y copialo. 
  
- Ahora en la consola de comandos escribiremos el comando cd  con la ubicacion de la carpeta del archivo python.exe como se muestra en la siguiente imagen
- ![image](https://user-images.githubusercontent.com/99075419/154860683-108be036-1091-492e-b576-9c3350aeda2c.png)
+ Ahora en la consola de comandos escribiremos y ejecutaremos el comando cd  con la ubicacion de la carpeta del archivo python.exe como se muestra en la siguiente imagen
+ 
+ ![image](https://user-images.githubusercontent.com/99075419/154860921-ec7feb97-a54a-4348-8623-da048cb6a96f.png)
  
 Ahora si estas listo para crear tu entorno virtual!
 
