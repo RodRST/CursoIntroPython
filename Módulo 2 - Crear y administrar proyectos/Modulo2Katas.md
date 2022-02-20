@@ -9,13 +9,19 @@ En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para
 * 
 ## posteriormente en cmd debes ir a la direccion donde esta "python.exe" en tu equipo con el comando cd
 
-* Para cambiar el directorio busca donde tienes instalado python, si usas windows 10 en la barra buscadora junto al logo de inicio escribe python.exe te deberá aparecer un icono asi ![image](https://user-images.githubusercontent.com/99075419/154860417-00803c55-7465-4552-8e24-0182b7b96d10.png)
-Seleccionas abrir ubicación de archivo y te llevará a una carpeta donde se encuentra instalado python.exe, en la parte superior esta la barra de direcciones ![image](https://user-images.githubusercontent.com/99075419/154860548-4991bde1-824e-48aa-800e-74c26510868b.png)
- para saber la ubicación actual del archivo, da click en esta barra, ahora selecciona todo y copialo. 
+* Para cambiar el directorio busca donde tienes instalado python, si usas windows 10 en la barra buscadora junto al logo de inicio escribe python.exe te deberá aparecer un icono asi
+*  ![image](https://user-images.githubusercontent.com/99075419/154860417-00803c55-7465-4552-8e24-0182b7b96d10.png)
+
+Seleccionas abrir ubicación de archivo y te llevará a una carpeta donde se encuentra instalado python.exe, en la parte superior esta la barra de direcciones
+
+![image](https://user-images.githubusercontent.com/99075419/154860548-4991bde1-824e-48aa-800e-74c26510868b.png)
+
+para saber la ubicación actual del archivo, da click en esta barra, ahora selecciona todo y copialo. 
  
- Ahora en la consola de comandos escribiremos el comando cd  con la ubicacion de la carpeta del archivo python.exe como se muestra en la siguiente imagen![image](https://user-images.githubusercontent.com/99075419/154860683-108be036-1091-492e-b576-9c3350aeda2c.png)
+ Ahora en la consola de comandos escribiremos el comando cd  con la ubicacion de la carpeta del archivo python.exe como se muestra en la siguiente imagen
+ ![image](https://user-images.githubusercontent.com/99075419/154860683-108be036-1091-492e-b576-9c3350aeda2c.png)
  
- Ahora si estas listo para crear tu entorno virtual!
+Ahora si estas listo para crear tu entorno virtual!
 
 ## Crear un entorno virtual
 
