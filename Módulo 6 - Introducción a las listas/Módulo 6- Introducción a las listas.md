@@ -113,6 +113,7 @@ En el ejemplo siguiente se muestra el uso de ``'Jupiter`` como valor de índice:
 ```
 jupiter_index = planets.index('Jupiter')
 print('Jupiter is the', jupiter_index + 1, 'planet from the sun')
+#se le agrega un +1 porque desde el index se empieza en 0, si no le agrego el +1, quedaria como jupiter es el cuarto planeta
 ```
 *Salida: Jupiter is the 5 planet from the sun*
 
